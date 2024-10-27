@@ -1,0 +1,9 @@
+El programa contiene en el apartado de administrador un login con contraseña "1234", al comprobar la contraseña se lanza el menú de administrador el cual contiene las tablas de producto o inventario (id,nombre producto, precio unitario, disponibilidad), clientes(id, nombre, apellido) y proveedores (id proveedor, nombre, teléfono y producto). cada una de estas tablas tendrá su respectivas funciones crud (eliminar, ingresar y modificar).solo el administrador tiene acceso a estas tablas y además el apartado de administrador cuenta con una calculadora teniendo en cuenta que en una aplicación de cafetería se puede necesitar.
+
+En el apartado de cliente hay dos opciones teniendo en cuenta que esta será la vista de los usuarios; ingreso permitirá que el usuario se registre para agregarlo en la tabla de clientes y tendrá también la función de carta, la cual es vista recortada de la tabla de productos, aquí el usuario podrá ver los id de producto, los productos y sus respectivos precios para tener una idea de que comprar.
+
+Los id son asignados automáticamente de forma incremental.
+
+La contraseña de administrador es: 1234
+
+Autorizo que otros estudiantes puedan ver y modificar el archivo
